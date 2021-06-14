@@ -5,10 +5,9 @@
         this.sex = sex;
       }
       
-      speak = ()=>{
-      
-        
-      }
+      speak() {
+    console.log("Starting...");
+  }
     }
      
     class Dog {
