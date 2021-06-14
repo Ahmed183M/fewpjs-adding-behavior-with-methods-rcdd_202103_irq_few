@@ -6,8 +6,8 @@
       }
       
       speak() {
-    console.log("Starting...");
-  }
+        return this.name+" says meow!"
+      }
     }
      
     class Dog {
